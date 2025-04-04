@@ -108,7 +108,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
-  This Software Carpentry course is an advanced course in Python, focusing on techniques and libraries useful for environmental science research. In enviromental sciences we often encounter data that is bigger than our computer’s memory and/or that is too big to process with our desktop or laptop computers. This course is introduces some ways to tackle that problem using parallelism, numpy, numba, xarray and dask. Please see the course notes for further information or get in touch with us. 
+  This Software Carpentry course is an advanced course in Python, focusing on techniques and libraries useful for environmental science research. In enviromental sciences we often encounter data that is bigger than our computer’s memory and/or that is too big to process with our desktop or laptop computers. This course introduces some ways to tackle that problem using parallelism, Numpy, Numba, Xarray and Dask. It also introduces Cartopy and discusses parallelism friendly file formats. Please see the course notes for further information or get in touch with us. 
 </p>
 
 <p id="course-notes">
@@ -185,7 +185,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-    Participants must bring a laptop which can connect to the Eduroam or NOCstaff wifi. All attendees will receive an account on the NOC Data Science Platform where all required software will be pre-installed.
+    Participants must bring a laptop which can connect to the Eduroam or NOCstaff wifi.
 </p>
 
 {% comment %}

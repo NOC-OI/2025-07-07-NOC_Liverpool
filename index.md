@@ -108,7 +108,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
-  This Software Carpentry course is an advanced course in Python, focusing on techniques and libraries useful for environmental science research. In enviromental sciences we often encounter data that is bigger than our computer’s memory and/or that is too big to process with our desktop or laptop computers. This course introduces some ways to tackle that problem using parallelism, Numpy, Numba, Xarray and Dask. It also introduces Cartopy and discusses parallelism friendly file formats. Please see the course notes for further information or get in touch with us. 
+  This Software Carpentry course is an advanced course in Python, focusing on techniques and libraries useful for environmental science research. In environmental sciences we often encounter data that is bigger than our computer’s memory and/or that is too big to process with our desktop or laptop computers. This course introduces some ways to tackle that problem using parallelism, Numpy, Numba, Xarray and Dask. It also introduces Cartopy and discusses parallelism friendly file formats. Please see the course notes for further information or get in touch with us. 
 </p>
 
 <p id="course-notes">
